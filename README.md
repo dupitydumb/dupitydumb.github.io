@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Wiki"
-permalink: /wiki/
 ---
 
 # Welcome to the Wiki Page
